@@ -3,9 +3,7 @@
 <h2>👨‍💻 Game Development and Programming Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Name of Thing](https://github.com/KyleWebb96/LABURL)
-- <b>C++</b>
-  - [Name of thing](https://github.com/KyleWebb96/LABURL)
+  - [Conway's Game of Life](https://github.com/KyleWebb96/GameofLife)
 
 <h2> 🤳 Connect with me:</h2>
 
