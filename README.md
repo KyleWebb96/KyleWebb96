@@ -8,6 +8,9 @@
   - [Group Project Game : Inverno](https://github.com/KyleWebb96/IronTigersFPSGame)
   - [Solo Project Asteriods-like game Saiph](https://github.com/FullSailGameStudies/saiph-august2022-KyleWebb96)
 
+- <b>Follow my blog for the game I'm solo developing to be my first shipped title!<b>
+  - [Battle Bots Brawlarama](https://battlebotsbrawlarama.wordpress.com/)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="KyleWebb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
