@@ -2,14 +2,16 @@
 
 <h2>👨‍💻 Game Development and Programming Projects:</h2>
 
+- <b>Follow my blog for the game I'm solo developing to be my first shipped title!<b>
+  - [Battle Bots Brawlarama](https://battlebotsbrawlarama.wordpress.com/)
+
+
 - <b>Programming Projects and School Assignments</b>
   - [Conway's Game of Life](https://github.com/KyleWebb96/GameofLife)
   - [Console Application Maze](https://github.com/KyleWebb96/ConsoleApplicationMaze)
   - [Group Project Game : Inverno](https://github.com/KyleWebb96/IronTigersFPSGame)
   - [Solo Project Asteriods-like game Saiph](https://github.com/FullSailGameStudies/saiph-august2022-KyleWebb96)
 
-- <b>Follow my blog for the game I'm solo developing to be my first shipped title!<b>
-  - [Battle Bots Brawlarama](https://battlebotsbrawlarama.wordpress.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
