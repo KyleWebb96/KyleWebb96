@@ -1,7 +1,11 @@
 <h1>Hi, I'm Kyle! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Game Developer</a></h1>
 
 <h2> About Me!</h2>
+I am a (very soon to be) graduate of the Game Development Bachelor program at Full Sail University! Below you will find the projects I have been working on for the last couple of years, the most recent one being the game I am currently developing with Unreal Engine! My skills include C++, C#, Unreal Engine, Unity, Blender, 3D Modeling, and UI/UX Design! Please feel free to reach me if you want to know more about my work!
 
+<h3>Contact Me</h3>
+email - k.webb_bis@yahoo.com
+LinkedIn - https://www.linkedin.com/in/kyle-webb-847018221/
 
 <h2>👨‍💻 Game Development and Programming Projects:</h2>
 
