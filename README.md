@@ -1,5 +1,8 @@
 <h1>Hi, I'm Kyle! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Game Developer</a></h1>
 
+<h2> About Me!</h2>
+
+
 <h2>👨‍💻 Game Development and Programming Projects:</h2>
 
 - <b>Follow my blog for the game I'm solo developing to be my first shipped title!<b>
