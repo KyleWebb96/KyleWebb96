@@ -5,6 +5,7 @@ I am a (very soon to be) graduate of the Game Development Bachelor program at Fu
 
 <h3>Contact Me</h3>
 email - k.webb_bis@yahoo.com
+
 LinkedIn - https://www.linkedin.com/in/kyle-webb-847018221/
 
 <h2>👨‍💻 Game Development and Programming Projects:</h2>
