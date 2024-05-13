@@ -10,7 +10,7 @@ LinkedIn - https://www.linkedin.com/in/kyle-webb-847018221/
 
 <h2>👨‍💻 Game Development and Programming Projects:</h2>
 
-- <b>Follow my blog for the game I'm solo developing to be my first shipped title!<b>
+- <b>This is the game I worked on for my capstone project at Full Sail University!<b>
   - BLOG - [Battle Bots Brawlarama](https://battlebotsbrawlarama.wordpress.com/)
   - DOWNLOAD - [itch.io](https://kylewebb96.itch.io/battle-bots-brawlarama)
 
