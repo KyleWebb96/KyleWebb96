@@ -11,7 +11,8 @@ LinkedIn - https://www.linkedin.com/in/kyle-webb-847018221/
 <h2>👨‍💻 Game Development and Programming Projects:</h2>
 
 - <b>Follow my blog for the game I'm solo developing to be my first shipped title!<b>
-  - [Battle Bots Brawlarama](https://battlebotsbrawlarama.wordpress.com/)
+  - BLOG - [Battle Bots Brawlarama](https://battlebotsbrawlarama.wordpress.com/)
+  - DOWNLOAD - [itch.io](https://kylewebb96.itch.io/battle-bots-brawlarama)
 
 
 - <b>Programming Projects and School Assignments</b>
