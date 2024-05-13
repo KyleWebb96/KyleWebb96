@@ -17,7 +17,7 @@ LinkedIn - https://www.linkedin.com/in/kyle-webb-847018221/
 
 - <b>Programming Projects and School Assignments</b>
   - [Conway's Game of Life](https://github.com/KyleWebb96/GameofLife) - [DOWNLOAD](https://kylewebb96.itch.io/conways-game-of-life)
-  - [Console Application Maze](https://github.com/KyleWebb96/ConsoleApplicationMaze)
+  - [Console Application Maze](https://github.com/KyleWebb96/ConsoleApplicationMaze) - [DOWNLOAD](https://kylewebb96.itch.io/console-application-maze)
   - [Group Project Game : Inverno](https://github.com/KyleWebb96/IronTigersFPSGame)
   - [Solo Project Asteriods-like game Saiph](https://github.com/FullSailGameStudies/saiph-august2022-KyleWebb96)
 
